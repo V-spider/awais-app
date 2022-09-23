@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
-console.log(`
+function getCsv(params) {
+    console.log(`
 Name: Mahmud Hassen
 
 
@@ -13,3 +14,4 @@ facebook: https://www.github.com
 instgram: https://www.github.com
 `);
 
+}
