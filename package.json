@@ -1,11 +1,11 @@
 {
   "name": "awais-cli-mahmud",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Get to know mahmud hassen via a cli",
   "repository": "v-spider/awais",
   "author": {
-    "name":"Mahmud Hassen",
-    "email":"mahmudhassen729@gmail.com",
+    "name": "Mahmud Hassen",
+    "email": "mahmudhassen729@gmail.com",
     "url": "www.mahmudhassen.me"
   },
   "main": "./bin/index.mjs",
